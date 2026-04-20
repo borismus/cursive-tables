@@ -1,0 +1,11 @@
+[
+  {"family_num": "23", "male_name": "Абрамъ Мееровъ сынъ Гринбаумъ", "age_prev": "29", "departure": "", "age_now": "33"},
+  {"family_num": "23", "male_name": "Абрамовъ сынъ Мееръ", "age_prev": "пропущенный", "departure": "", "age_now": "11"},
+  {"family_num": "24", "male_name": "Давидъ Еліашевъ сынъ Латманъ", "age_prev": "24", "departure": "", "age_now": "28"},
+  {"family_num": "24", "male_name": "Давида Еліашева братъ Барухъ", "age_prev": "18", "departure": "", "age_now": "22"},
+  {"family_num": "25", "male_name": "Ицка Гиршевъ сынъ Бабровъ", "age_prev": "41", "departure": "въ 812 году изъ Города отправленъ въ жительство въ неизвѣстности", "age_now": ""},
+  {"family_num": "25", "male_name": "Ицки Гиршева сынъ Гиршъ Абрамъ", "age_prev": "25", "departure": "", "age_now": "29"},
+  {"family_num": "26", "male_name": "Есель Берковъ сынъ Ласьковъ", "age_prev": "15", "departure": "", "age_now": "19"},
+  {"family_num": "26", "male_name": "Еселя Беркова братъ Мовша Вульфъ", "age_prev": "14", "departure": "", "age_now": "18"},
+  {"family_num": "27", "male_name": "Михель Лейбовъ сынъ Ланговичъ", "age_prev": "23", "departure": "", "age_now": "27"}
+]

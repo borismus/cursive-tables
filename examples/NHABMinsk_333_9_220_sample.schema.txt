@@ -1,0 +1,5 @@
+Col 1 [family_num]: № семьи (family number)
+Col 2 [male_name]: Мужеский полъ (male names — head of household and male relatives)
+Col 3 [age_prev]: Лѣта по послѣдней ревизіи состояли и вновь послѣ оной прибыли (age at previous revision / newly arrived)
+Col 4 [departure]: Изъ нихъ выбыло (departed — when and where to, may be blank)
+Col 5 [age_now]: Нынѣ на лицо. Лѣта (age currently present)

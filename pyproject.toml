@@ -1,0 +1,11 @@
+[project]
+name = "minsk-ocr"
+version = "0.1.0"
+description = "Gemini transcription benchmark for Belarusian archival records"
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai",
+    "python-dotenv",
+    "jiwer",
+    "scipy",
+]
