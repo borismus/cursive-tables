@@ -1,7 +1,7 @@
 [project]
-name = "minsk-ocr"
+name = "cursive-tables"
 version = "0.1.0"
-description = "Gemini transcription benchmark for Belarusian archival records"
+description = "Schema-primed OCR and scoring pipeline for handwritten tabular archival records (Gemini-backed)"
 requires-python = ">=3.10"
 dependencies = [
     "google-genai",
